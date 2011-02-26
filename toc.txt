@@ -1,0 +1,12 @@
+Week 1: Automation Basics and Locators
+
+Week 2: Interacting with Elements on the Page 
+test_adblocker.py
+
+Week 3: Working with AJAX Sites
+test_input_stage.py
+
+Week 4: Pattern Matching
+test_adblocker.py (added regex)
+
+
